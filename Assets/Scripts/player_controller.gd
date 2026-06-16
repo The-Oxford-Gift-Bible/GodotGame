@@ -4,7 +4,7 @@ class_name PlayerController
 @export var speed = 10.0
 @export var jump_power = 10.0
 
-var speed_multiplyer = 30.0
+var speed_multiplyer = 300.0
 var jump_multiplyer = -30.0
 var direction = 0
 
